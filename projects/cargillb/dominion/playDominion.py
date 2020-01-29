@@ -8,6 +8,7 @@ Created on Tue Oct 13 15:42:42 2015
 import Dominion
 import random
 from collections import defaultdict
+import pandas
 
 #Get player names
 player_names = ["Annie","*Ben","*Carla"]
